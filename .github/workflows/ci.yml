@@ -1,0 +1,30 @@
+name: CI
+
+# Se ejecuta automáticamente en cada push y en cada pull request
+on:
+  push:
+  pull_request:
+
+jobs:
+  revision-de-codigo:
+    name: Revisión automática de código
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Revisar el código (ESLint)
+        run: npm run lint
+
+      - name: Ejecutar tests
+        run: npm test
