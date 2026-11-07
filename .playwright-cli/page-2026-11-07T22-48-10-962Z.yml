@@ -1,0 +1,455 @@
+- generic [ref=f3e2]:
+  - generic [ref=f3e3]:
+    - link "Skip to content" [ref=f3e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f3e8]:
+      - heading "Navigation Menu" [level=2] [ref=f3e9]
+      - button "Close navigation menu" [ref=f3e10]
+      - generic [ref=f3e11]:
+        - generic [ref=f3e12]:
+          - button "Toggle navigation" [ref=f3e14]
+          - link "Homepage" [ref=f3e18] [cursor=pointer]:
+            - /url: /
+          - link "Sign in" [ref=f3e22] [cursor=pointer]:
+            - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fjuliopdev%2Fgithub-actions-utp-s13%2Factions
+        - generic [ref=f3e28]:
+          - navigation "Global" [ref=f3e29]:
+            - list [ref=f3e30]:
+              - listitem [ref=f3e31]:
+                - generic [ref=f3e32]:
+                  - button "Products" [ref=f3e33]
+                  - generic [ref=f3e37]:
+                    - list [ref=f3e38]:
+                      - listitem [ref=f3e39]:
+                        - generic [ref=f3e40]:
+                          - text: Platform
+                          - list "Platform" [ref=f3e41]:
+                            - listitem [ref=f3e42]:
+                              - link "GitHubRepository hosting, code review, and collaboration" [ref=f3e43] [cursor=pointer]:
+                                - /url: https://github.com/platform
+                                - generic [ref=f3e48]:
+                                  - generic [ref=f3e49]: GitHub
+                                  - text: Repository hosting, code review, and collaboration
+                            - listitem [ref=f3e50]:
+                              - link "CopilotAI coding agent for tasks, projects, and automated work" [ref=f3e51] [cursor=pointer]:
+                                - /url: https://github.com/features/copilot
+                                - generic [ref=f3e57]:
+                                  - generic [ref=f3e58]: Copilot
+                                  - text: AI coding agent for tasks, projects, and automated work
+                      - listitem [ref=f3e59]:
+                        - generic [ref=f3e60]:
+                          - text: Build & Ship
+                          - list "Build & Ship" [ref=f3e61]:
+                            - listitem [ref=f3e62]:
+                              - link "ActionsCI/CD and automation" [ref=f3e63] [cursor=pointer]:
+                                - /url: https://github.com/features/actions
+                                - generic [ref=f3e67]:
+                                  - generic [ref=f3e68]: Actions
+                                  - text: CI/CD and automation
+                            - listitem [ref=f3e69]:
+                              - link "Code QualityQuality analysis, fixes, and enforcement" [ref=f3e70] [cursor=pointer]:
+                                - /url: https://github.com/features/code-quality
+                                - generic [ref=f3e75]:
+                                  - generic [ref=f3e76]: Code Quality
+                                  - text: Quality analysis, fixes, and enforcement
+                            - listitem [ref=f3e77]:
+                              - link "CodespacesCloud development environments" [ref=f3e78] [cursor=pointer]:
+                                - /url: https://github.com/features/codespaces
+                                - generic [ref=f3e83]:
+                                  - generic [ref=f3e84]: Codespaces
+                                  - text: Cloud development environments
+                      - listitem [ref=f3e85]:
+                        - generic [ref=f3e86]:
+                          - text: Secure
+                          - list "Secure" [ref=f3e87]:
+                            - listitem [ref=f3e88]:
+                              - link "Code SecurityVulnerability detection and remediation" [ref=f3e89] [cursor=pointer]:
+                                - /url: https://github.com/security/advanced-security/code-security
+                                - generic [ref=f3e94]:
+                                  - generic [ref=f3e95]: Code Security
+                                  - text: Vulnerability detection and remediation
+                            - listitem [ref=f3e96]:
+                              - link "Secret ProtectionSecret scanning and leak prevention" [ref=f3e97] [cursor=pointer]:
+                                - /url: https://github.com/security/advanced-security/secret-protection
+                                - generic [ref=f3e101]:
+                                  - generic [ref=f3e102]: Secret Protection
+                                  - text: Secret scanning and leak prevention
+                    - link "All Features" [ref=f3e104] [cursor=pointer]:
+                      - /url: https://github.com/features
+              - listitem [ref=f3e109]:
+                - generic [ref=f3e110]:
+                  - button "Developers" [ref=f3e111]
+                  - list [ref=f3e116]:
+                    - listitem [ref=f3e117]:
+                      - generic [ref=f3e118]:
+                        - text: Learn
+                        - list "Learn" [ref=f3e119]:
+                          - listitem [ref=f3e120]:
+                            - link [ref=f3e121] [cursor=pointer]:
+                              - /url: https://docs.github.com/en
+                              - generic [ref=f3e123]:
+                                - text: Documentation
+                                - img "(opens in a new tab)" [ref=f3e124]
+                          - listitem [ref=f3e126]:
+                            - link [ref=f3e127] [cursor=pointer]:
+                              - /url: https://learn.github.com/skills
+                              - generic [ref=f3e129]:
+                                - text: Training
+                                - img "(opens in a new tab)" [ref=f3e130]
+                          - listitem [ref=f3e132]:
+                            - link [ref=f3e133] [cursor=pointer]:
+                              - /url: https://learn.github.com/credentials
+                              - generic [ref=f3e135]:
+                                - text: Certifications
+                                - img "(opens in a new tab)" [ref=f3e136]
+                    - listitem [ref=f3e138]:
+                      - generic [ref=f3e139]:
+                        - text: Build
+                        - list "Build" [ref=f3e140]:
+                          - listitem [ref=f3e141]:
+                            - link "Build with Copilot" [ref=f3e142] [cursor=pointer]:
+                              - /url: https://github.com/features/ai
+                          - listitem [ref=f3e145]:
+                            - link [ref=f3e146] [cursor=pointer]:
+                              - /url: https://docs.github.com/en/copilot/how-tos/copilot-on-github/customize-copilot/customize-copilot-overview
+                              - generic [ref=f3e148]:
+                                - text: Customize Copilot
+                                - img "(opens in a new tab)" [ref=f3e149]
+                          - listitem [ref=f3e151]:
+                            - link "Integrations" [ref=f3e152] [cursor=pointer]:
+                              - /url: https://github.com/marketplace
+                    - listitem [ref=f3e155]:
+                      - generic [ref=f3e156]:
+                        - text: Explore
+                        - list "Explore" [ref=f3e157]:
+                          - listitem [ref=f3e158]:
+                            - link "Trending repos" [ref=f3e159] [cursor=pointer]:
+                              - /url: https://github.com/trending
+                          - listitem [ref=f3e162]:
+                            - link "GitHub Sponsors" [ref=f3e163] [cursor=pointer]:
+                              - /url: https://github.com/open-source/sponsors
+                          - listitem [ref=f3e166]:
+                            - link "Developer articles" [ref=f3e167] [cursor=pointer]:
+                              - /url: https://github.com/resources/articles
+                    - listitem [ref=f3e170]:
+                      - generic [ref=f3e171]:
+                        - text: Changelog
+                        - list "Changelog" [ref=f3e172]:
+                          - listitem [ref=f3e173]:
+                            - link [ref=f3e174] [cursor=pointer]:
+                              - /url: https://github.blog/changelog/
+                              - generic [ref=f3e181]:
+                                - generic [ref=f3e182]:
+                                  - text: Changelog
+                                  - img "(opens in a new tab)" [ref=f3e183]
+                                - text: Your source for the latest features, improvements, and fixes across GitHub products, all in one place.
+              - listitem [ref=f3e185]:
+                - generic [ref=f3e186]:
+                  - button "Businesses" [ref=f3e187]
+                  - list [ref=f3e192]:
+                    - listitem [ref=f3e193]:
+                      - generic [ref=f3e194]:
+                        - text: By Stage
+                        - list "By Stage" [ref=f3e195]:
+                          - listitem [ref=f3e196]:
+                            - link "Enterprises" [ref=f3e197] [cursor=pointer]:
+                              - /url: https://github.com/enterprise
+                          - listitem [ref=f3e200]:
+                            - link "Team" [ref=f3e201] [cursor=pointer]:
+                              - /url: https://github.com/team
+                          - listitem [ref=f3e204]:
+                            - link "Startups" [ref=f3e205] [cursor=pointer]:
+                              - /url: https://github.com/enterprise/startups
+                          - listitem [ref=f3e208]:
+                            - link "Nonprofits" [ref=f3e209] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry/nonprofits
+                    - listitem [ref=f3e212]:
+                      - generic [ref=f3e213]:
+                        - text: By Industry
+                        - list "By Industry" [ref=f3e214]:
+                          - listitem [ref=f3e215]:
+                            - link "Healthcare" [ref=f3e216] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry/healthcare
+                          - listitem [ref=f3e219]:
+                            - link "Financial services" [ref=f3e220] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry/financial-services
+                          - listitem [ref=f3e223]:
+                            - link "Manufacturing" [ref=f3e224] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry/manufacturing
+                          - listitem [ref=f3e227]:
+                            - link "Government" [ref=f3e228] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry/government
+                          - listitem [ref=f3e231]:
+                            - link "See all industries" [ref=f3e232] [cursor=pointer]:
+                              - /url: https://github.com/solutions/industry
+                    - listitem [ref=f3e237]:
+                      - generic [ref=f3e238]:
+                        - text: Evaluate GitHub
+                        - list "Evaluate GitHub" [ref=f3e239]:
+                          - listitem [ref=f3e240]:
+                            - link "Why GitHub" [ref=f3e241] [cursor=pointer]:
+                              - /url: https://github.com/why-github
+                          - listitem [ref=f3e244]:
+                            - link "Customer Stories" [ref=f3e245] [cursor=pointer]:
+                              - /url: https://github.com/customer-stories
+                          - listitem [ref=f3e248]:
+                            - link "Business insights" [ref=f3e249] [cursor=pointer]:
+                              - /url: https://github.com/solutions/executive-insights
+                          - listitem [ref=f3e252]:
+                            - link "Trust Center" [ref=f3e253] [cursor=pointer]:
+                              - /url: https://github.com/trust-center
+                    - listitem [ref=f3e256]:
+                      - generic [ref=f3e257]:
+                        - text: Add-ons
+                        - list "Add-ons" [ref=f3e258]:
+                          - listitem [ref=f3e259]:
+                            - link "GitHub Advanced SecurityEnterprise-grade code security" [ref=f3e260] [cursor=pointer]:
+                              - /url: https://github.com/security/advanced-security
+                              - generic [ref=f3e264]:
+                                - generic [ref=f3e265]: GitHub Advanced Security
+                                - text: Enterprise-grade code security
+                          - listitem [ref=f3e266]:
+                            - link "Copilot for businessEnterprise-grade AI features" [ref=f3e267] [cursor=pointer]:
+                              - /url: https://github.com/features/copilot/copilot-business
+                              - generic [ref=f3e272]:
+                                - generic [ref=f3e273]: Copilot for business
+                                - text: Enterprise-grade AI features
+                          - listitem [ref=f3e274]:
+                            - link "Premium SupportEnterprise-grade 24/7 support" [ref=f3e275] [cursor=pointer]:
+                              - /url: https://github.com/enterprise/premium-support
+                              - generic [ref=f3e279]:
+                                - generic [ref=f3e280]: Premium Support
+                                - text: Enterprise-grade 24/7 support
+              - listitem [ref=f3e281]:
+                - generic [ref=f3e282]:
+                  - button "Resources" [ref=f3e283]
+                  - list [ref=f3e288]:
+                    - listitem [ref=f3e289]:
+                      - generic [ref=f3e290]:
+                        - text: Learn & Connect
+                        - list "Learn & Connect" [ref=f3e291]:
+                          - listitem [ref=f3e292]:
+                            - link [ref=f3e293] [cursor=pointer]:
+                              - /url: https://docs.github.com/en
+                              - generic [ref=f3e295]:
+                                - text: Documentation
+                                - img "(opens in a new tab)" [ref=f3e296]
+                          - listitem [ref=f3e298]:
+                            - link "Resource center" [ref=f3e299] [cursor=pointer]:
+                              - /url: https://github.com/resources
+                          - listitem [ref=f3e302]:
+                            - link [ref=f3e303] [cursor=pointer]:
+                              - /url: https://github.blog/
+                              - generic [ref=f3e305]:
+                                - text: Blog
+                                - img "(opens in a new tab)" [ref=f3e306]
+                          - listitem [ref=f3e308]:
+                            - link "Events & webinars" [ref=f3e309] [cursor=pointer]:
+                              - /url: https://github.com/resources/events
+                          - listitem [ref=f3e312]:
+                            - link "Community Forum" [ref=f3e313] [cursor=pointer]:
+                              - /url: https://github.com/orgs/community/discussions
+                          - listitem [ref=f3e316]:
+                            - link "Customer Stories" [ref=f3e317] [cursor=pointer]:
+                              - /url: https://github.com/customer-stories
+                          - listitem [ref=f3e320]:
+                            - link "Integrations" [ref=f3e321] [cursor=pointer]:
+                              - /url: https://github.com/marketplace
+                    - listitem [ref=f3e324]:
+                      - generic [ref=f3e325]:
+                        - text: Support
+                        - list "Support" [ref=f3e326]:
+                          - listitem [ref=f3e327]:
+                            - link [ref=f3e328] [cursor=pointer]:
+                              - /url: https://help.github.com/
+                              - generic [ref=f3e330]:
+                                - text: Customer support
+                                - img "(opens in a new tab)" [ref=f3e331]
+                          - listitem [ref=f3e333]:
+                            - link [ref=f3e334] [cursor=pointer]:
+                              - /url: https://learn.github.com/skills
+                              - generic [ref=f3e336]:
+                                - text: Training
+                                - img "(opens in a new tab)" [ref=f3e337]
+                          - listitem [ref=f3e339]:
+                            - link [ref=f3e340] [cursor=pointer]:
+                              - /url: https://www.githubstatus.com/
+                              - generic [ref=f3e342]:
+                                - text: GitHub Status
+                                - img "(opens in a new tab)" [ref=f3e343]
+                    - listitem [ref=f3e345]:
+                      - generic [ref=f3e346]:
+                        - text: Company
+                        - list "Company" [ref=f3e347]:
+                          - listitem [ref=f3e348]:
+                            - link "About" [ref=f3e349] [cursor=pointer]:
+                              - /url: https://github.com/about
+                          - listitem [ref=f3e352]:
+                            - link "Partners" [ref=f3e353] [cursor=pointer]:
+                              - /url: https://github.com/partners
+                          - listitem [ref=f3e356]:
+                            - link [ref=f3e357] [cursor=pointer]:
+                              - /url: https://github.blog/changelog/
+                              - generic [ref=f3e359]:
+                                - text: Changelog
+                                - img "(opens in a new tab)" [ref=f3e360]
+                    - listitem [ref=f3e362]:
+                      - generic [ref=f3e363]:
+                        - text: GitHub Universe
+                        - list "GitHub Universe" [ref=f3e364]:
+                          - listitem [ref=f3e365]:
+                            - link [ref=f3e366] [cursor=pointer]:
+                              - /url: https://githubuniverse.com/
+                              - generic [ref=f3e371]:
+                                - generic [ref=f3e372]:
+                                  - text: GitHub Universe
+                                  - img "(opens in a new tab)" [ref=f3e373]
+                                - text: The event for developers, by developers — talks, workshops, and what’s next for GitHub.
+              - listitem [ref=f3e375]:
+                - link "Pricing" [ref=f3e376] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f3e377]:
+            - button "Search or jump to, type / to search" [ref=f3e379]:
+              - generic [ref=f3e380]: Search/
+            - generic [ref=f3e385]:
+              - link "Sign in" [ref=f3e387] [cursor=pointer]:
+                - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fjuliopdev%2Fgithub-actions-utp-s13%2Factions
+              - link "Sign up" [ref=f3e389] [cursor=pointer]:
+                - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Factions%2Findex&source=header-repo&source_repo=juliopdev%2Fgithub-actions-utp-s13
+              - button "Appearance settings" [ref=f3e391]
+              - generic [aria-hidden] [ref=f3e395]: Appearance settings
+  - main [ref=f3e398]:
+    - generic [ref=f3e403]:
+      - complementary "Actions" [ref=f3e404]:
+        - navigation "Workflows" [ref=f3e408]:
+          - link "All workflows" [ref=f3e411] [cursor=pointer]:
+            - /url: /juliopdev/github-actions-utp-s13/actions
+          - generic [ref=f3e416]:
+            - heading "Workflows" [level=2] [ref=f3e418]
+            - link "CI" [ref=f3e427] [cursor=pointer]:
+              - /url: /juliopdev/github-actions-utp-s13/actions/workflows/ci.yml
+        - generic [ref=f3e429]:
+          - navigation "Management" [ref=f3e431]:
+            - generic [ref=f3e433]:
+              - heading [level=2] [ref=f3e435]:
+                - button "Management" [ref=f3e436]
+              - generic [ref=f3e447]:
+                - link [ref=f3e449] [cursor=pointer]:
+                  - /url: /juliopdev/github-actions-utp-s13/actions/caches
+                  - text: Caches
+                - link [ref=f3e451] [cursor=pointer]:
+                  - /url: /juliopdev/github-actions-utp-s13/blob/49b7a13c699d32c97c605be210680ff34b7e121a/.github/workflows/actions.lock
+                  - text: Lockfile
+          - button "Collapse sidebar" [expanded] [ref=f3e456]
+      - generic [ref=f3e463]:
+        - generic [ref=f3e467]:
+          - heading "All workflows" [level=1] [ref=f3e469]
+          - generic [ref=f3e470]: Showing runs from all workflows
+        - generic [ref=f3e473]:
+          - search "Filter workflow runs" [ref=f3e474]:
+            - form "Filter workflow runs" [ref=f3e475]:
+              - text: Filter workflow runs
+              - generic [ref=f3e476]:
+                - generic [ref=f3e477]:
+                  - combobox "Filter workflow runs" [ref=f3e481]
+                  - button "Search" [ref=f3e482]
+                  - text: Search
+                - generic:
+                  - generic:
+                    - listbox "Suggestions"
+          - region "Workflow runs" [ref=f3e485]:
+            - group "Workflow runs results" [ref=f3e486]:
+              - generic [ref=f3e488]:
+                - heading "Workflow runs" [level=2] [ref=f3e489]
+                - generic [ref=f3e490]:
+                  - heading "2 workflow runs" [level=2] [ref=f3e491]
+                  - 'button "Auto-refresh: 30s" [ref=f3e492]'
+                  - toolbar "Workflow run filters" [ref=f3e499]:
+                    - generic [ref=f3e500]:
+                      - button "Workflow" [ref=f3e501]
+                      - button "Event" [ref=f3e506]
+                      - button "Status" [ref=f3e511]
+                      - button "Branch" [ref=f3e516]
+                      - button "Actor" [ref=f3e521]
+                    - button "More items" [ref=f3e526]
+                    - text: More items
+                - list "Workflow runs" [ref=f3e529]:
+                  - 'listitem "failed: Run 2 of CI. test: introduce error intencional (variable sin usar) para probar que…" [ref=f3e530]':
+                    - heading [level=3] [ref=f3e532]:
+                      - 'link "test: introduce error intencional (variable sin usar) para probar que…" [ref=f3e533] [cursor=pointer]':
+                        - /url: https://github.com/juliopdev/github-actions-utp-s13/actions/runs/42422209064
+                    - generic [ref=f3e535]: "failed:"
+                    - generic [ref=f3e544]:
+                      - strong [ref=f3e545]: CI
+                      - text: "#2:Commit"
+                      - link "49b7a13" [ref=f3e546] [cursor=pointer]:
+                        - /url: /juliopdev/github-actions-utp-s13/commit/49b7a13c699d32c97c605be210680ff34b7e121a
+                      - text: pushedby
+                      - link "juliopdev" [ref=f3e547] [cursor=pointer]:
+                        - /url: /juliopdev
+                    - generic [ref=f3e548]:
+                      - link "main" [ref=f3e550] [cursor=pointer]:
+                        - /url: /juliopdev/github-actions-utp-s13/tree/refs/heads/main
+                      - generic [ref=f3e551]:
+                        - generic [ref=f3e552]: Nov 7, 2026
+                        - generic [ref=f3e555]: 8s
+                    - generic [ref=f3e558]:
+                      - button "More actions for workflow run 2" [ref=f3e559]
+                      - text: More actions for workflow run 2
+                  - 'listitem "completed successfully: Run 1 of CI. feat: librería de utilidades matemáticas con CI (ESLint + tests)" [ref=f3e562]':
+                    - heading [level=3] [ref=f3e564]:
+                      - 'link "feat: librería de utilidades matemáticas con CI (ESLint + tests)" [ref=f3e565] [cursor=pointer]':
+                        - /url: https://github.com/juliopdev/github-actions-utp-s13/actions/runs/42421934667
+                    - generic [ref=f3e567]: "completed successfully:"
+                    - generic [ref=f3e576]:
+                      - strong [ref=f3e577]: CI
+                      - text: "#1:Commit"
+                      - link "d3d0728" [ref=f3e578] [cursor=pointer]:
+                        - /url: /juliopdev/github-actions-utp-s13/commit/d3d07286ff842855422d693795ee7f7f463f08c4
+                      - text: pushedby
+                      - link "juliopdev" [ref=f3e579] [cursor=pointer]:
+                        - /url: /juliopdev
+                    - generic [ref=f3e580]:
+                      - link "main" [ref=f3e582] [cursor=pointer]:
+                        - /url: /juliopdev/github-actions-utp-s13/tree/refs/heads/main
+                      - generic [ref=f3e583]:
+                        - generic [ref=f3e584]: Nov 7, 2026
+                        - generic [ref=f3e587]: 9s
+                    - generic [ref=f3e590]:
+                      - button "More actions for workflow run 1" [ref=f3e591]
+                      - text: More actions for workflow run 1
+  - contentinfo [ref=f3e594]:
+    - heading "Footer" [level=2] [ref=f3e595]
+    - generic [ref=f3e596]:
+      - generic [ref=f3e597]:
+        - link "GitHub Homepage" [ref=f3e598] [cursor=pointer]:
+          - /url: https://github.com
+        - text: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f3e601]:
+        - heading "Footer navigation" [level=3] [ref=f3e602]
+        - list "Footer navigation" [ref=f3e603]:
+          - listitem [ref=f3e604]:
+            - link "Terms" [ref=f3e605] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f3e606]:
+            - link "Privacy" [ref=f3e607] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f3e608]:
+            - link "Security" [ref=f3e609] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f3e610]:
+            - link "Status" [ref=f3e611] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f3e612]:
+            - link "Community" [ref=f3e613] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f3e614]:
+            - link "Docs" [ref=f3e615] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f3e616]:
+            - link "Contact" [ref=f3e617] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f3e618]:
+            - button "Manage cookies" [ref=f3e620]
+          - listitem [ref=f3e621]:
+            - button "Do not share my personal information" [ref=f3e623]

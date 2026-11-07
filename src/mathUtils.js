@@ -10,7 +10,6 @@
  * @returns {number}
  */
 export function add(a, b) {
-  const errorIntencional = "esta variable no se usa y ESLint debe marcarla";
   return a + b;
 }
 
